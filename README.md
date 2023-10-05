@@ -1,6 +1,6 @@
 # Spotify Clone Project
 
-![Demo Screenshot](demo.png)
+![Demo Screenshot](Demo.png)
 
 ## Introduction
 

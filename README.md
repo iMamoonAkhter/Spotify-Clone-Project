@@ -8,8 +8,6 @@ Welcome to the Spotify Clone Project! This repository contains a responsive web 
 
 ## Features
 
-- **Song Exploration**: Search for your favorite songs with ease.
-
 - **Playback Controls**: Play, pause, skip, and adjust the volume of songs effortlessly.
 
 - **Responsive Design**: Enjoy a consistent experience on all devices.
